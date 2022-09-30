@@ -1,0 +1,24 @@
+{
+  "name": "@kuaniscreative/package-a",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "peerDependencies": {
+    "clsx": "^1.2.1",
+    "react": "^17.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuaniscreative/package-a.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/kuaniscreative/package-a/issues"
+  },
+  "homepage": "https://github.com/kuaniscreative/package-a#readme",
+  "description": ""
+}
